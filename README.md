@@ -12,7 +12,6 @@ Lumina is an emotionally intelligent AI chatbot that provides personalized menta
 [![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask)](https://flask.palletsprojects.com)
 [![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20AI-orange?style=flat-square)](https://elevenlabs.io)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/whisper)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 </div>
 
